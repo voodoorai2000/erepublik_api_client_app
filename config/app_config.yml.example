@@ -1,0 +1,16 @@
+development:
+  EREPUBLIK_KEY: IVEtPAIP8gBvhqPDaMw
+  EREPUBLIK_SECRET: aboBtyirRU1FSqEVgVCUWOoyrMpMZaHNrHezmJR3
+
+staging:
+  EREPUBLIK_KEY: your_staging_key
+  EREPUBLIK_SECRET: your_staging_secret
+    
+test:
+  EREPUBLIK_KEY: your_test_key
+  EREPUBLIK_SECRET: your_test_secret
+
+production:
+  EREPUBLIK_KEY: your_production_key
+  EREPUBLIK_SECRET: your_production_secret
+  #if deploying with Heroku use http://docs.heroku.com/config-vars
